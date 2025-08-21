@@ -14,12 +14,14 @@ It includes assignments, lab tasks, projects, and practice codes. The repo is co
 ---
 
 ## Tech Stack  
-The projects in this repo use a variety of tools and technologies, including:  
+Since this is an ongoing repository, the tech stack will grow as I continue learning.  
+So far, I have worked with:  
 
-- **Languages**: C, C++, Java, Python, JavaScript, HTML, CSS  
-- **Frameworks & Libraries**: React.js, Node.js, Express  
-- **Databases**: MySQL, MongoDB  
-- **Tools**: Git, GitHub, VS Code  
+- **Programming Languages**: C, C++, JavaScript 
+- **Web Development**: HTML, CSS, JavaScript, React.js, Next.js, Tailwind, Bootstrap, jQuery  
+- **Tools**: Git, GitHub, Gitlab, VS Code  
+
+More languages, frameworks, and tools will be added over time as the repository expands.  
 
 ---
 
